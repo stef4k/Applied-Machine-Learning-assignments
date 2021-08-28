@@ -15,4 +15,4 @@ In order to answer the questions you will need to read carefully the documentati
 
 [Complete Assignment Description](https://github.com/stef4k/Applied-Machine-Learning-assignments/blob/main/assignment%201/assignment1_description.ipynb)
 
-[Assignment Execution](https://github.com/stef4k/Applied-Machine-Learning-assignments/blob/main/assignment%201/assignment1_8170050.ipynb)
+[Assignment Execution](https://github.com/stef4k/Applied-Machine-Learning-assignments/blob/main/assignment%201/assignment1_solution.ipynb)
